@@ -7,3 +7,14 @@ frontend/node_modules/
 backend/*.db
 
 .env
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+node_modules/
+dist/
+build/
+
+.vite/
