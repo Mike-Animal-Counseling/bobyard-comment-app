@@ -78,3 +78,9 @@ A simple full-stack comment application with CRUD functions.
 ## Time & Next Steps
 
 I focused on implementing the core backend APIs and a clean, functional frontend that supports full CRUD operations. I also spent some additional time polishing the frontend UI (button styling and layout) to make the admin interactions clearer and easier to use.
+
+---
+
+## Demo
+
+![Demo](demo.gif)
