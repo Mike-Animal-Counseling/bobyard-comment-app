@@ -40,3 +40,41 @@
 .read-the-docs {
   color: #888;
 }
+
+.container {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  width: 100%; 
+}
+
+.add-button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #111;
+  background: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.action-button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.delete-button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #f2c2c2;
+  background: #fff5f5;
+  color: #b42318;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
